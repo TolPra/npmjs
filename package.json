@@ -4,7 +4,7 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Tolpra/tolpra.git"
+    "url": "https://github.com/Tolpra/tolpra-npmjs.git"
   },
   "main": "index.js",
   "scripts": {
